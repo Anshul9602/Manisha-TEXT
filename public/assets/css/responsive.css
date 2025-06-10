@@ -379,7 +379,7 @@
     .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .header-logo .custom-logo-area {
         position: absolute;
         top: -1px;
-        background: #ff5421;
+        background: #088ece;
         padding: 27px 35px 27px 22px;
         left: 0;
     }
@@ -387,7 +387,7 @@
         right: -175px;
         margin: 0 auto;
         max-width: 800px;
-        background: #ff5421 !important;
+        background: #088ece !important;
     }
     .full-width-header .rs-header .topbar-area.home11-topbar.modify1.home15-style {
         padding-left: 13px;
@@ -1289,7 +1289,7 @@
         margin-bottom: 8px;
     }
     .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .rs-menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
-        color: #ff5421 !important;
+        color: #088ece !important;
     }
     .rs-banner.style13 {
         padding: 100px 0px 0px 0px;
@@ -1553,7 +1553,7 @@
         margin: 0 0 20px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 60px;
+        font-size: 40px;
         line-height: 1.3;
     }
     .rs-slider.main-home .slider-content .content-part {
@@ -2447,7 +2447,7 @@
         margin-bottom: 10px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 48px;
+        font-size: 38px;
         margin-bottom: 50px;
     }
     .rs-features {
@@ -3464,7 +3464,7 @@
         font-size: 18px;
     }
     .rs-slider.main-home .slider-content .content-part .sl-title {
-        font-size: 35px;
+        font-size: 30px;
         margin-bottom: 30px;
     }
 

@@ -5,7 +5,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                             <div class="footer-logo mb-30">
-                                <a href="index.html"><img src="assets/images/logo.jpg" alt=""></a>
+                                <a href="index.html"><img src="assets/logo.jpg" alt=""></a>
                             </div>
                               <div class="textwidget pr-60 md-pr-15"><p class="white-color">Manisha Textiles Pvt. Ltd., established in 2008 in Bhiwandi, India, manufactures premium shirting fabrics, offering innovative, high-quality solutions to domestic and international markets with decades of industry experience.</p>
                               </div>

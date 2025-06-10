@@ -5,10 +5,10 @@
                     <div class="slider-content slide1">
                         <div class="container">
                             <div class="content-part">
-                                <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Start to learning today</div>
-                                <h1 class="sl-title wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Online Courses From Leading Experts</h1>
+                                <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">India's Fabric, The World's Choice</div>
+                                <h2 class="sl-title wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">High-quality shirting materials for global markets</h2>
                                 <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                                    <a class="readon orange-btn main-home" href="#">Find Courses</a>
+                                    <a class="readon orange-btn main-home" href="<?= base_url('about') ?>">KNOW MORE</a>
                                 </div>
                             </div>
                         </div>
@@ -16,10 +16,10 @@
                     <div class="slider-content slide2">
                         <div class="container">
                             <div class="content-part">
-                                <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">Start to learning today</div>
-                                <h1 class="sl-title wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Explore Interests and Career With Courses</h1>
+                                <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">India's Fabric, The World's Choice</div>
+                                <h2  class="sl-title wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">High-quality shirting materials tailored for discerning global markets</h2>
                                 <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                                    <a class="readon orange-btn main-home" href="#">Find Courses</a>
+                                    <a class="readon orange-btn main-home" href="<?= base_url('about') ?>">KNOW MORE</a>
                                 </div>
                             </div>
                         </div>
@@ -37,10 +37,9 @@
                                     </div>
                                     <div class="content-part">
                                         <h4 class="title">
-                                            <span class="watermark">5,320 online courses</span>
+                                            <span class="watermark">Quality</span>
                                         </h4>
-                                        <p class="dese">
-                                           Enjoy a variety of fresh topics
+                                        <p class="dese">Unmatched Fabric Excellence
                                         </p>
                                     </div>
                                 </div>
@@ -52,10 +51,10 @@
                                     </div>
                                     <div class="content-part">
                                       <h4 class="title">
-                                          <span class="watermark">Expert instruction</span>
+                                          <span class="watermark">Sustainability</span>
                                       </h4>
                                         <p class="dese">
-                                            Find the right instructor
+                                        Sustainable at Every Stitch
                                         </p>
                                     </div>
                                 </div>
@@ -67,10 +66,10 @@
                                     </div>
                                     <div class="content-part">
                                         <h4 class="title">
-                                            <span class="watermark">Lifetime access</span>
+                                            <span class="watermark">Style</span>
                                         </h4>
                                         <p class="dese">
-                                           Learn on your schedule
+                                        Fashion-Forward Fabric Design
                                         </p>
                                     </div>
                                 </div>
@@ -81,7 +80,27 @@
                 <!-- Features Section End -->
             </div>
             <!-- Slider Section End -->                    
-
+            <div class="rs-legacy-section pt-100 pb-100 md-pt-70 md-pb-70">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 mb-4 mb-lg-0">
+                    <div class="legacy-img-wrap" style="position: relative; display: inline-block;">
+                        <div style="position: absolute; top: -20px; left: -20px; width: calc(100% ); height: calc(100% ); background: #0117A7; z-index: 1;"></div>
+                        <img src="assets/about1.webp" alt="Legacy Image" style="position: relative; z-index: 2; width: 100%; max-width: 500px; border-radius: 4px;">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="legacy-content">
+                        <h2 class="title mb-0" style="font-size: 48px; font-weight: 600;">Weaving Quality, Style & Sustainability</h2>
+                        <div class="mt-3 mb-2" style="font-weight: 600; color: #222;">Since 2008</div>
+                        <div style="width: 60px; height: 3px; background: #088ece; margin-bottom: 20px;"></div>
+                        <p><b>Manisha Textiles Pvt. Ltd.</b> is a premier manufacturer of high-quality shirting fabrics, catering to both domestic and international markets. Established in 2008 and headquartered in Bhiwandi, India, we have consistently delivered innovative and trend-setting fabric solutions for over two decades. With a commitment to quality, sustainability, and style, Manisha Textiles combines modern manufacturing technology with skilled craftsmanship to produce a diverse range of shirting fabrics that meet the dynamic needs of fashion brands, retailers, and designers.</p>
+                        <a href="<?= base_url('about') ?>" class="btn btn-orange mt-4" style="background: #088ece; color: #fff; padding: 12px 32px; font-weight: 600; border-radius: 2px; text-transform: uppercase; letter-spacing: 1px;">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
             <!-- Categories Section Start -->
             <div id="rs-categories" class="rs-categories main-home pt-90 pb-100 md-pt-60 md-pb-40">
                 <div class="container">
@@ -198,8 +217,8 @@
             <div id="rs-popular-courses" class="rs-popular-courses main-home event-bg pt-100 pb-100 md-pt-70 md-pb-70">
                 <div class="container">
                     <div class="sec-title3 text-center mb-45">
-                        <div class="sub-title">Select Courses</div>
-                        <h2 class="title black-color">Explore Popular Courses</h2>
+                        <div class="sub-title">Beyond Business</div>
+                        <h2 class="title black-color">Empowering communities through education, skill development, and sustainability.</h2>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-md-6 mb-30">
@@ -212,218 +231,75 @@
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
+                                                    2018-19
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="course-price">
-                                            <span class="price">Free</span>
-                                        </div>
+                                       
                                         <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
                                         <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
+                                            <li>
+                                                <a class="readon orange-btn main-home" href="#">Read More</a>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                            </div>
                         </div> 
+                         
                         <div class="col-lg-4 col-md-6 mb-30">
                            <div class="courses-item">
                                 <div class="courses-grid">
                                     <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/main-home/2.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/images/courses/main-home/1.jpg" alt=""></a>
                                     </div>
                                     <div class="content-part">
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
+                                                    2018-19
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="course-price">
-                                            <span class="price">$40.00</span>
-                                        </div>
-                                        <h3 class="title"><a href="#">Artificial Intelligence Fundamental Startup Justo</a></h3>
+                                       
+                                        <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
                                         <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
+                                            <li>
+                                                <a class="readon orange-btn main-home" href="#">Read More</a>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                            </div>
                         </div> 
+                         
                         <div class="col-lg-4 col-md-6 mb-30">
                            <div class="courses-item">
                                 <div class="courses-grid">
                                     <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/home8/2.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/images/courses/main-home/1.jpg" alt=""></a>
                                     </div>
                                     <div class="content-part">
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
+                                                    2018-19
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div class="course-price">
-                                            <span class="price">$35.00</span>
-                                        </div>
-                                        <h3 class="title"><a href="#">Computer Science Startup Varius et Commodo</a></h3>
+                                       
+                                        <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
                                         <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
+                                            <li>
+                                                <a class="readon orange-btn main-home" href="#">Read More</a>
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                            </div>
                         </div> 
-                        <div class="col-lg-4 col-md-6 md-mb-30">
-                           <div class="courses-item">
-                                <div class="courses-grid">
-                                    <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/home8/4.jpg" alt=""></a>
-                                    </div>
-                                    <div class="content-part">
-                                        <div class="info-meta">
-                                            <ul>                                                
-                                                <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="course-price">
-                                            <span class="price">$32.00</span>
-                                        </div>
-                                        <h3 class="title"><a href="#">Testy & Delicious Food Recipes for Lunch Tellus</a></h3>
-                                        <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                           </div>
-                        </div> 
-                        <div class="col-lg-4 col-md-6 sm-mb-30">
-                           <div class="courses-item">
-                                <div class="courses-grid">
-                                    <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/home8/5.jpg" alt=""></a>
-                                    </div>
-                                    <div class="content-part">
-                                        <div class="info-meta">
-                                            <ul>                                                
-                                                <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="course-price">
-                                            <span class="price">$22.00</span>
-                                        </div>
-                                        <h3 class="title"><a href="#">Lawyer Advance Mental Simulator Handle Nulla</a></h3>
-                                        <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                           </div>
-                        </div> 
-                        <div class="col-lg-4 col-md-6">
-                           <div class="courses-item">
-                                <div class="courses-grid">
-                                    <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/home8/6.jpg" alt=""></a>
-                                    </div>
-                                    <div class="content-part">
-                                        <div class="info-meta">
-                                            <ul>                                                
-                                                <li class="ratings">
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
-                                                    (1 rating)
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="course-price">
-                                            <span class="price">$28.00</span>
-                                        </div>
-                                        <h3 class="title"><a href="#">Computer Fundamentals Basic Startup Ultricies</a></h3>
-                                        <ul class="meta-part">
-                                            <li class="user">
-                                                <i class="fa fa-user"></i>
-                                                 25 Students                                        
-                                            </li>
-                                            <li class="user">
-                                                <i class="fa fa-file"></i>
-                                                6 Lessons                                        
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                           </div>
-                        </div>
+                         
+                        
                     </div>
                 </div>
             </div>
@@ -510,9 +386,7 @@
                         </div>
                         <div class="col-lg-6 padding-0">
                             <div class="img-part media-icon orange-color">
-                                <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
-                                    <i class="fa fa-play"></i>
-                                </a>
+                               
                             </div>
                         </div>
                     </div>
@@ -558,7 +432,7 @@
                         data-mobile-device-dots="false">
                         <div class="testi-item">
                             <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/1.png" alt="">
                                 </div>
@@ -570,7 +444,7 @@
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/2.png" alt="">
                                 </div>
@@ -582,7 +456,7 @@
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/3.png" alt="">
                                 </div>
@@ -594,7 +468,7 @@
                         </div>   
                         <div class="testi-item">
                             <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/1.png" alt="">
                                 </div>
@@ -606,7 +480,7 @@
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/2.png" alt="">
                                 </div>
@@ -618,7 +492,7 @@
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you’ll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
                                 <div class="author-img">
                                     <img src="assets/images/testimonial/style5/3.png" alt="">
                                 </div>
@@ -742,7 +616,7 @@
                                     <li><i class="fa fa-user-o"></i> Admin</li>
                                     <li><i class="fa fa-calendar"></i>August 30, 2020</li>
                                 </ul>
-                                <h3 class="title"><a href="<?= base_url('blog') ?>">Pandemic drives millions from Latin America’s</a></h3>
+                                <h3 class="title"><a href="<?= base_url('blog') ?>">Pandemic drives millions from Latin America's</a></h3>
                                 <div class="desc">the acquisition of knowledge, skills, values befs, and habits. Educational methods include teach ing, training, storytelling</div>
                                 <div class="btn-btm">
                                     <div class="cat-list">

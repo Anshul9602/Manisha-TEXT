@@ -51,7 +51,7 @@
     <div id="loader" class="loader orange-color">
         <div class="loader-container">
             <div class='loader-icon'>
-                <img src="assets/images/pre-logo1.png" alt="">
+                <img src="assets/logo.jpg" alt="">
             </div>
         </div>
     </div>
@@ -71,8 +71,8 @@
                                 <div class="logo-cat-wrap">
                                     <div class="logo-part">
                                         <a href="/">
-                                            <img class="normal-logo" src="assets/images/logo.jpg" alt="">
-                                            <img class="sticky-logo" src="assets/images/logo.jpg" alt="">
+                                            <img class="normal-logo" src="assets/logo.jpg" alt="">
+                                            <img class="sticky-logo" src="assets/logo.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -290,7 +290,7 @@
                         </div>
                     </div>
                     <div class="canvas-logo">
-                        <a href="index.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
+                        <a href="/"><img src="assets/logo.jpg" alt="logo"></a>
                     </div>
                     <div class="offcanvas-text">
                         <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo by

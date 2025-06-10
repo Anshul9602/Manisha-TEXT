@@ -9,7 +9,7 @@
             <h1 class="page-title">About Us</h1>
             <ul>
                 <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="active" href="/">Home</a>
                 </li>
                 <li>About Us</li>
             </ul>
@@ -26,14 +26,8 @@
                         <div class="sec-title">
                             <div class="sub-title orange">About Us</div>
                             <h2 class="title mb-21">Manisha Textiles Pvt. Ltd.</h2>
-                            <div class="desc big"> is a premier manufacturer of high-quality shirting fabrics, catering
-                                to both domestic and international markets. Established in 2008 and headquartered in
-                                Bhiwandi, India, we have consistently delivered innovative and trend-setting fabric
-                                solutions for over two decades.</div>
-                            <div class="desc big">With a commitment to quality, sustainability, and style, Classic
-                                Weaves combines modern manufacturing technology with skilled craftsmanship to produce a
-                                diverse range of shirting fabrics that meet the dynamic needs of fashion brands,
-                                retailers, and designers.</div>
+                            <div class="desc big">is a premier manufacturer of high-quality shirting fabrics, catering to both domestic and international markets. Established in 2008 and headquartered in Bhiwandi, India, we have consistently delivered innovative and trend-setting fabric solutions for over two decades.</div>
+                            <div class="desc big">is a premier manufacturer of high-quality shirting fabrics, catering to both domestic and international markets. Established in 2008 and headquartered in Bhiwandi, India, we have consistently delivered innovative and trend-setting fabric solutions for over two decades.</div>
                         </div>
                     </div>
                 </div>
@@ -133,6 +127,10 @@
         </div>
     </div>
     <!-- Mission & Vision Section End -->
+
+    <!-- Legacy Section Start -->
+ 
+    <!-- Legacy Section End -->
 
     <!-- Core Values Section Start -->
     <div id="rs-core-values" class="rs-core-values pt-100 pb-100 md-pt-70 md-pb-70">
