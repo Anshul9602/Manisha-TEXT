@@ -43,19 +43,20 @@
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
             <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
+    <style>
+    #nav-expander {
+        display: none !important;
+    }
+
+    .breadcrumbs-img {
+        opacity: 0.5;
+    }
+    </style>
 </head>
 
 <body class="defult-home">
 
-    <!--Preloader area start here-->
-    <div id="loader" class="loader orange-color">
-        <div class="loader-container">
-            <div class='loader-icon'>
-                <img src="assets/logo.jpg" alt="">
-            </div>
-        </div>
-    </div>
-    <!--Preloader area End here-->
+
 
     <!-- Main content Start -->
     <div class="main-content">
@@ -67,146 +68,7 @@
                 <div class="menu-area menu-sticky">
                     <div class="container">
                         <div class="row y-middle">
-                            <div class="col-lg-2">
-                                <div class="logo-cat-wrap">
-                                    <div class="logo-part">
-                                        <a href="/">
-                                            <img class="normal-logo" src="assets/logo.jpg" alt="">
-                                            <img class="sticky-logo" src="assets/logo.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-8 text-right">
-                                <div class="rs-menu-area">
-                                    <div class="main-menu">
-                                        <div class="mobile-menu">
-                                            <a class="rs-menu-toggle">
-                                                <i class="fa fa-bars"></i>
-                                            </a>
-                                        </div>
-                                        <nav class="rs-menu">
-                                            <ul class="nav-menu">
-
-                                                <li class="menu-item">
-                                                    <a href="<?= base_url('about') ?>">About</a>
-
-                                                </li>
-                                                <li class="rs-mega-menu mega-rs menu-item-has-children"> <a
-                                                        href="/">Products</a>
-                                                    <ul class="mega-menu">
-                                                        <li class="mega-menu-container">
-                                                            <div class="mega-menu-innner">
-                                                            <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">Core Banking
-                                                                                Solution</a> </li>
-                                                                        <li><a href="<?= base_url('') ?>">MIS Solution</a>
-                                                                        </li>
-
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-
-                                                                        <li><a href="<?= base_url('') ?>">ERP Solution</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('') ?>">Digital Payments</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">Agricultural
-                                                                                Trading</a> </li>
-                                                                        <li><a href="<?= base_url('') ?>">Post-Mortem
-                                                                                Mgmt.</a> </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">End-to-End
-                                                                                Cyber Security</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-                                                    </ul> <!-- //.mega-menu -->
-                                                </li>
-                                               
-
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Pages</a>
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item-has-children right">
-                                                            <a href="#">Team</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="/">Team One</a></li>
-                                                                <li><a href="/">Team Two</a></li>
-                                                                <li><a href="/">Team Single</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Event</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="/">Event One</a></li>
-                                                                <li><a href="/">Event Two</a></li>
-                                                                <li><a href="/">Event Three</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Gallery</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="/">Gallery One</a></li>
-                                                                <li><a href="/">Gallery Two</a></li>
-                                                                <li><a href="/">Gallery Three</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Shop</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="/">Shop</a></li>
-                                                                <li><a href="/">Shop Single</a></li>
-                                                                <li><a href="/">Cart</a></li>
-                                                                <li><a href="/">Checkout</a></li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Others</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="/">FAQ</a></li>
-                                                                <li><a href="/">404 Page</a></li>
-                                                                <li><a href="/">Login</a></li>
-                                                                <li><a href="/">Register</a></li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-
-                                                <li class="menu-item-has-children">
-                                                    <a href="<?= base_url('blog') ?>">Blog</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="<?= base_url('blog-S') ?>">Blog1</a></li>
-                                                        
-                                                        <li class="menu-item">
-                                                            <a href="<?= base_url('blog-s') ?>">Blog2</a>
-                                                            
-                                                        </li>
-                                                    </ul>
-                                                </li>
-
-                                                <li class="menu-item">
-                                                    <a href="<?= base_url('contact') ?>">Contact</a>
-                                                    
-                                                </li>
-                                            </ul> <!-- //.nav-menu -->
-                                        </nav>
-                                    </div> <!-- //.main-menu -->
-
-                                </div>
-                            </div>
-                            <div class="col-lg-2 text-right">
+                            <div class="col-lg-12 text-right" style="padding:10px 0;">
                                 <div class="expand-btn-inner">
                                     <ul>
                                         <li>
@@ -216,7 +78,8 @@
                                             </a>
                                         </li>
                                         <li class="user-icon cart-inner no-border mini-cart-active">
-                                            <a href="#"><i class="fa fa-shopping-bag"></i></a>
+                                            <a href="#" style="height:fit-content;"><i
+                                                    class="fa fa-shopping-bag"></i></a>
                                             <div class="woocommerce-mini-cart text-left">
                                                 <div class="cart-bottom-part">
                                                     <ul class="cart-icon-product-list">
@@ -261,7 +124,8 @@
                                             </div>
                                         </li>
                                         <li class="user-icon last-icon">
-                                            <a href="#"><i class="fa fa-user" aria-hidden="true"></i></a>
+                                            <a href="#" style="height:fit-content;"><i class="fa fa-user"
+                                                    aria-hidden="true"></i></a>
                                         </li>
 
                                     </ul>
@@ -274,6 +138,196 @@
                                     </span>
                                 </div>
                             </div>
+                            <div class="col-lg-2">
+                                <div class="logo-cat-wrap">
+                                    <div class="logo-part">
+                                        <a href="/">
+                                            <img class="normal-logo" src="assets/logo.jpg" alt="">
+                                            <img class="sticky-logo" src="assets/logo.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-10 text-right">
+                                <div class="rs-menu-area">
+                                    <div class="main-menu">
+                                        <div class="mobile-menu">
+                                            <a class="rs-menu-toggle">
+                                                <i class="fa fa-bars"></i>
+                                            </a>
+                                        </div>
+                                        <nav class="rs-menu">
+                                            <ul class="nav-menu">
+
+                                                <li class="menu-item-has-children ">
+                                                    <a href="/">About</a>
+                                                    <ul class="sub-menu">
+
+                                                        <li><a href="<?= base_url('about') ?>">About</a>
+                                                        </li>
+                                                        <li><a href="<?= base_url('board-of-directors') ?>">Board
+                                                                of Directors</a></li>
+                                                        <li><a href="<?= base_url('investor') ?>">Investors</a>
+                                                        </li>
+                                                        <li><a href="<?= base_url('scores') ?>">Scores</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="rs-mega-menu mega-rs menu-item-has-children"> <a
+                                                        href="/">Products</a>
+                                                    <ul class="mega-menu">
+                                                        <li class="mega-menu-container">
+                                                            <div class="mega-menu-innner">
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="<?= base_url('') ?>">Core Banking
+                                                                                Solution</a> </li>
+                                                                        <li><a href="<?= base_url('') ?>">MIS
+                                                                                Solution</a>
+                                                                        </li>
+
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+
+                                                                        <li><a href="<?= base_url('') ?>">ERP
+                                                                                Solution</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('') ?>">Digital
+                                                                                Payments</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="<?= base_url('') ?>">Agricultural
+                                                                                Trading</a> </li>
+                                                                        <li><a href="<?= base_url('') ?>">Post-Mortem
+                                                                                Mgmt.</a> </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="<?= base_url('') ?>">End-to-End
+                                                                                Cyber Security</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul> <!-- //.mega-menu -->
+                                                </li>
+
+
+                                                <li class="menu-item-has-children">
+                                                    <a href="#">Infrastructure</a>
+
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item-has-children right">
+                                                            <a href="<?= base_url('spinning') ?>">Spinning</a>
+                                                        </li>
+                                                        <li class="menu-item-has-children">
+                                                            <a href="<?= base_url('dyeing') ?>">Dyeing</a>
+                                                        </li>
+
+
+                                                    </ul>
+                                                </li>
+                                                <li class="rs-mega-menu mega-rs menu-item-has-children">
+                                                    <a href="/">Investors Relations</a>
+                                                    <ul class="mega-menu">
+                                                        <li class="mega-menu-container">
+                                                            <div class="mega-menu-innner">
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="<?= base_url('policies') ?>">POLICIES</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('committees') ?>">COMMITTEES</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('code-of-conduct') ?>">CODE OF
+                                                                                CONDUCT</a></li>
+                                                                        <li><a href="<?= base_url('management') ?>">MANAGEMENT</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('key-managerial-personnel') ?>">KEY MANAGERIAL
+                                                                                PERSONNEL</a></li>
+                                                                        
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                        
+                                                                        <li><a href="<?= base_url('financial-results') ?>">FINANCIAL
+                                                                                RESULTS</a></li>
+                                                                        <li><a href="<?= base_url('familiarisation-programme-for-independent-directors') ?>">FAMILIARISATION
+                                                                                PROGRAMME FOR INDEPENDENT DIRECTORS</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('postal-ballot') ?>">POSTAL
+                                                                                BALLOT</a></li>
+                                                                        <li><a href="<?= base_url('prospectus') ?>">PROSPECTUS</a>
+                                                                        </li>
+                                                                        <li><a href="<?= base_url('annual-return') ?>">ANNUAL
+                                                                                RETURN</a></li>
+                                                                        <li><a href="<?= base_url('annual-report') ?>">ANNUAL
+                                                                                REPORT</a></li>
+                                                                        
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="single-megamenu">
+                                                                    <ul class="sub-menu">
+                                                                    <li><a href="<?= base_url('shareholding-pattern') ?>">SHAREHOLDING
+                                                                                PATTERN</a></li>
+                                                                        
+                                                                    <li><a href="<?= base_url('investor-grievances') ?>">INVESTOR
+                                                                                GRIEVANCES</a></li>
+                                                                        <li><a href="<?= base_url('stock-exchange-intimations') ?>">STOCK EXCHANGE
+                                                                                INTIMATIONS</a></li>
+                                                                        <li><a href="<?= base_url('general-meeting') ?>">GENERAL
+                                                                                MEETING</a></li>
+                                                                                <li><a href="<?= base_url('corporate-governance') ?>">CORPORATE
+                                                                                GOVERNANCE</a></li>
+                                                                        
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="<?= base_url('careers') ?>">Careers</a>
+
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="<?= base_url('events') ?>">Events</a>
+
+                                                </li>
+
+                                                <li class="menu-item-has-children">
+                                                    <a href="<?= base_url('corporate') ?>">Corporate
+                                                        Governance</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="<?= base_url('csr') ?>">Csr</a></li>
+
+                                                        <li class="menu-item">
+                                                            <a href="<?= base_url('vigil-mechanism') ?>">Vigil
+                                                                Mechanism</a>
+
+                                                        </li>
+                                                    </ul>
+                                                </li>
+
+                                                <li class="menu-item">
+                                                    <a href="<?= base_url('contact') ?>">Contact</a>
+
+                                                </li>
+                                            </ul> <!-- //.nav-menu -->
+                                        </nav>
+                                    </div> <!-- //.main-menu -->
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
