@@ -93,7 +93,7 @@
 
                                                 </li>
                                                 <li class="rs-mega-menu mega-rs menu-item-has-children"> <a
-                                                        href="index.html">Products</a>
+                                                        href="/">Products</a>
                                                     <ul class="mega-menu">
                                                         <li class="mega-menu-container">
                                                             <div class="mega-menu-innner">
@@ -142,43 +142,43 @@
                                                         <li class="menu-item-has-children right">
                                                             <a href="#">Team</a>
                                                             <ul class="sub-menu right">
-                                                                <li><a href="team.html">Team One</a></li>
-                                                                <li><a href="team2.html">Team Two</a></li>
-                                                                <li><a href="team-single.html">Team Single</a></li>
+                                                                <li><a href="/">Team One</a></li>
+                                                                <li><a href="/">Team Two</a></li>
+                                                                <li><a href="/">Team Single</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
                                                             <a href="#">Event</a>
                                                             <ul class="sub-menu right">
-                                                                <li><a href="events-style1.html">Event One</a></li>
-                                                                <li><a href="events-style2.html">Event Two</a></li>
-                                                                <li><a href="events-style3.html">Event Three</a></li>
+                                                                <li><a href="/">Event One</a></li>
+                                                                <li><a href="/">Event Two</a></li>
+                                                                <li><a href="/">Event Three</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
                                                             <a href="#">Gallery</a>
                                                             <ul class="sub-menu right">
-                                                                <li><a href="gallery-style1.html">Gallery One</a></li>
-                                                                <li><a href="gallery-style2.html">Gallery Two</a></li>
-                                                                <li><a href="gallery-style3.html">Gallery Three</a></li>
+                                                                <li><a href="/">Gallery One</a></li>
+                                                                <li><a href="/">Gallery Two</a></li>
+                                                                <li><a href="/">Gallery Three</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
                                                             <a href="#">Shop</a>
                                                             <ul class="sub-menu right">
-                                                                <li><a href="shop.html">Shop</a></li>
-                                                                <li><a href="shop-single.html">Shop Single</a></li>
-                                                                <li><a href="cart.html">Cart</a></li>
-                                                                <li><a href="checkout.html">Checkout</a></li>
+                                                                <li><a href="/">Shop</a></li>
+                                                                <li><a href="/">Shop Single</a></li>
+                                                                <li><a href="/">Cart</a></li>
+                                                                <li><a href="/">Checkout</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
                                                             <a href="#">Others</a>
                                                             <ul class="sub-menu right">
-                                                                <li><a href="faq.html">FAQ</a></li>
-                                                                <li><a href="error.html">404 Page</a></li>
-                                                                <li><a href="login.html">Login</a></li>
-                                                                <li><a href="register.html">Register</a></li>
+                                                                <li><a href="/">FAQ</a></li>
+                                                                <li><a href="/">404 Page</a></li>
+                                                                <li><a href="/">Login</a></li>
+                                                                <li><a href="/">Register</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -209,7 +209,6 @@
                             <div class="col-lg-2 text-right">
                                 <div class="expand-btn-inner">
                                     <ul>
-
                                         <li>
                                             <a class="hidden-xs rs-search" data-target=".search-modal"
                                                 data-toggle="modal" href="#">

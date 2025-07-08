@@ -2,7 +2,7 @@
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                 <div class="breadcrumbs-img">
-                    <img src="assets/images/breadcrumbs/5.jpg" alt="Breadcrumbs Image">
+                    <img src="assets/contact.jpg" alt="Breadcrumbs Image">
                 </div>
                 <div class="breadcrumbs-text white-color padding">
                     <h1 class="page-title white-color">Contact Us</h1>
@@ -27,7 +27,7 @@
         						</div>
         						<div class="address-text">
                                     <span class="label">Address</span>
-                                    <span class="des">Plot No 16A, Survey No 6, H No 8P, Sapna Industrial Estate, Saravali MIDC, Gova Naka, Bhwandi 421302</span>
+                                    <span class="des">Plot No 16A, Survey No 6, H No 8P, Sapna Industrial Estate, Saravali MIDC, Gova Naka, Bhiwandi 421302</span>
                                 </div>
         					</div>
         				</div>
@@ -49,8 +49,8 @@
                                 </div>
                                 <div class="address-text">
                                     <span class="label">Phone Number</span>
-                                    <span class="des"><a href="tel:9860112999">9860112999 </a></span> /
-                                    <span class="des"><a href="tel:9890293959">9890293959</a></span>
+                                    <span class="des"><a href="tel:9860112999">+91-9860112999 </a></span> /
+                                    <span class="des"><a href="tel:9890293959">+91-9890293959</a></span>
                                 </div>
                             </div>
                         </div>

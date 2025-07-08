@@ -106,7 +106,7 @@
                 <div class="container">
                     <div class="sec-title3 text-center mb-45">
                         <div class="sub-title"> Top Categories</div>
-                        <h2 class="title black-color">Popular Online Categories</h2>
+                        <h2 class="title black-color">Popular Categories</h2>
                     </div>
                     <div class="row mb-35">
                         <div class="col-lg-4 col-md-6 mb-30">
@@ -119,8 +119,8 @@
                                         <img src="assets/images/categories/main-home/icon/1.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">General Education</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -135,8 +135,8 @@
                                         <img src="assets/images/categories/main-home/icon/2.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">Computer Science</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -151,8 +151,8 @@
                                         <img src="assets/images/categories/main-home/icon/3.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">Civil Engineering</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -167,8 +167,8 @@
                                         <img src="assets/images/categories/main-home/icon/4.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">Artificial Intelligence</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -183,8 +183,8 @@
                                         <img src="assets/images/categories/main-home/icon/5.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">Business Studies</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -199,8 +199,8 @@
                                         <img src="assets/images/categories/main-home/icon/6.png" alt="">
                                     </div>
                                     <div class="content-wrap">
-                                        <h2 class="title"><a href="#">Computer Engineering</a></h2>
-                                        <span class="course-qnty">02 Courses</span>
+                                        <h2 class="title"><a href="#">Lorem ipsum </a></h2>
+                                        <span class="course-qnty">Lorem</span>
                                     </div>
                                 </div>
                             </div>
@@ -225,18 +225,18 @@
                            <div class="courses-item">
                                 <div class="courses-grid">
                                     <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/main-home/1.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/d1.jpg" alt=""></a>
                                     </div>
                                     <div class="content-part">
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    2018-19
+                                                    2025-26
                                                 </li>
                                             </ul>
                                         </div>
                                        
-                                        <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
+                                        <h3 class="title"><a href="#">Help For Food And Water</a></h3>
                                         <ul class="meta-part">
                                             <li>
                                                 <a class="readon orange-btn main-home" href="#">Read More</a>
@@ -251,18 +251,18 @@
                            <div class="courses-item">
                                 <div class="courses-grid">
                                     <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/main-home/1.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/d2.jpg" alt=""></a>
                                     </div>
                                     <div class="content-part">
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    2018-19
+                                                    2025-26
                                                 </li>
                                             </ul>
                                         </div>
                                        
-                                        <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
+                                        <h3 class="title"><a href="#">Help For Skill Development</a></h3>
                                         <ul class="meta-part">
                                             <li>
                                                 <a class="readon orange-btn main-home" href="#">Read More</a>
@@ -277,18 +277,18 @@
                            <div class="courses-item">
                                 <div class="courses-grid">
                                     <div class="img-part">
-                                        <a href="#"><img src="assets/images/courses/main-home/1.jpg" alt=""></a>
+                                        <a href="#"><img src="assets/d3.jpg" alt=""></a>
                                     </div>
                                     <div class="content-part">
                                         <div class="info-meta">
                                             <ul>                                                
                                                 <li class="ratings">
-                                                    2018-19
+                                                    2025-26
                                                 </li>
                                             </ul>
                                         </div>
                                        
-                                        <h3 class="title"><a href="#">Fitness Development Strategy Buildup Laoreet</a></h3>
+                                        <h3 class="title"><a href="#">Help For Humanity</a></h3>
                                         <ul class="meta-part">
                                             <li>
                                                 <a class="readon orange-btn main-home" href="#">Read More</a>
@@ -317,7 +317,7 @@
                                     <div class="desc white-color pr-100 md-pr-0">We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of your moment, so blinded by desire those who fail in their duty through weakness. These cases are perfectly simple and easy every pleasure is to be welcomed and every pain avoided.</div>
                                 </div>
                                 <div class="btn-part">
-                                    <a class="readon orange-btn transparent" href="#">Register Now</a>
+                                    <a class="readon orange-btn transparent" href="#">Know More</a>
                                 </div>
                             </div>
                         </div>
@@ -350,7 +350,7 @@
                                       <div class="card">
                                           <div class="card-header">
                                              
-                                              <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Does Educavo offer free courses?</a>
+                                              <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false">Does Manisha Textiles offer free Consultancy?</a>
                                           </div>
                                           <div id="collapseTwo" class="collapse" data-parent="#accordion" style="">
                                               <div class="card-body">
@@ -372,7 +372,7 @@
                                       <div class="card">
                                           <div class="card-header">
                                              
-                                              <a class="card-link collapsed" data-toggle="collapse" href="#collapsefour" aria-expanded="false">What is distance education?</a>
+                                              <a class="card-link collapsed" data-toggle="collapse" href="#collapsefour" aria-expanded="false">What products do you make?</a>
                                           </div>
                                           <div id="collapsefour" class="collapse" data-parent="#accordion" style="">
                                               <div class="card-body">
@@ -400,7 +400,7 @@
                 <div class="container">
                     <div class="sec-title3 mb-50 md-mb-30 text-center">
                         <div class="sub-title primary">Testimonial</div>
-                        <h2 class="title white-color">What Students Saying</h2>
+                        <h2 class="title white-color">What People Saying</h2>
                     </div>
                     <div class="rs-carousel owl-carousel" 
                         data-loop="true" 
@@ -432,76 +432,42 @@
                         data-mobile-device-dots="false">
                         <div class="testi-item">
                             <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc">Exceptional quality and vibrant fabrics! Every order arrives on time and exceeds expectations. Our clients love the feel and finish, definitely our go-to textile supplier.</div>
                                 <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/1.png" alt="">
+                                    <img src="assets/t1.jpg" alt="" style="width:125px">
                                 </div>
                             </div>
                             <div class="author-part">
-                                <a class="name" href="#">Mahadi Monsura</a>
-                                <span class="designation">Student</span>
+                                <a class="name" href="#">Alisha Khan</a>
+                                <span class="designation">Business Woman</span>
                             </div>
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc">A trusted partner for all our textile needs. Their attention to detail and fabric quality is unmatched. Our customers notice the difference.
+</div>
                                 <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/2.png" alt="">
+                                    <img src="assets/t2.jpg" alt=""style="width:125px">
                                 </div>
                             </div>
                             <div class="author-part">
-                                <a class="name" href="#">Alex Fenando</a>
-                                <span class="designation">English Teacher</span>
+                                <a class="name" href="#">Alex Mathew</a>
+                                <span class="designation">Shop Owner</span>
                             </div>
                         </div>
                         <div class="testi-item">
                             <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
+                                <div class="desc">We’ve been sourcing from them for over a year. Their materials are reliable, colors stay true, and prices are fair. Couldn’t ask for more.</div>
                                 <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/3.png" alt="">
+                                    <img src="assets/t3.jpg" alt=""style="width:125px">
                                 </div>
                             </div>
                             <div class="author-part">
-                                <a class="name" href="#">Losis Dcosta</a>
-                                <span class="designation">Math Teacher</span>
+                                <a class="name" href="#">Rahul Tyagi</a>
+                                <span class="designation">Entrepreneur</span>
                             </div>
                         </div>   
-                        <div class="testi-item">
-                            <div class="author-desc">                                
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
-                                <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Mahadi Monsura</a>
-                                <span class="designation">Student</span>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
-                                <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Alex Fenando</a>
-                                <span class="designation">English Teacher</span>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="author-desc">
-                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/test-2.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and tight deadlines: That's how I would describe Jeramy and his team at The Lorem Ipsum Company. When it comes to content marketing, you'll definitely get the 5-star treatment from the Lorem Ipsum Company.</div>
-                                <div class="author-img">
-                                    <img src="assets/images/testimonial/style5/3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="author-part">
-                                <a class="name" href="#">Losis Dcosta</a>
-                                <span class="designation">Math Teacher</span>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

@@ -34,15 +34,15 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">Plot No 16A, Survey No 6, H No 8P, Sapna Industrial Estate, Saravali MIDC, Gova Naka, Bhwandi 421302</div>
+                                    <div class="desc">Plot No 16A, Survey No 6, H No 8P, Sapna Industrial Estate, Saravali MIDC, Gova Naka, Bhiwandi 421302</div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                       <a href="tel:9860112999">9860112999</a>
+                                       <a href="tel:9860112999">+91-9860112999</a>
                                     </div>
                                     <div class="desc">
-                                       <a href="tel:9890293959">9890293959</a>
+                                       <a href="tel:9890293959">+91-9890293959</a>
                                     </div>
                                 </li>
                                 <li>
