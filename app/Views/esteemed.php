@@ -1,5 +1,5 @@
  <!-- Breadcrumb Section Start -->
- <div class="section-padding breadcrumb" data-bg-image="/images/header.png">
+    <div class="section-padding breadcrumb" data-bg-image="/images/header.png">
         <div class="container">
             <div class="row">
                 <div class="col-12 align-items-center text-center">

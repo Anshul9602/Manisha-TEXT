@@ -6,12 +6,12 @@
             <img src="assets/about.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">CSR</h1>
+            <h1 class="page-title">Vigil Mechanism</h1>
             <ul>
                 <li>
                     <a class="active" href="/">Home</a>
                 </li>
-                <li>CSR</li>
+                <li>Vigil Mechanism</li>
             </ul>
         </div>
     </div>
@@ -62,7 +62,7 @@
 
     .csr-rule {
         font-size: 1rem;
-        text-align: center;
+        text-align: start;
         margin-bottom: 1.5rem;
     }
 
@@ -87,39 +87,37 @@
     <div class="container-fluid"
         style="background: url('assets/images/bg/csr-bg.png') center center/cover no-repeat; min-height: 100vh;">
         <div class="csr-content-box">
-            <div class="csr-title">CSR POLICY</div>
+           <h4>MANISHA TEXTILE LTD. FRAMEWORK UNDER COMPANIES ACT, 2013:</h4>
             <div class="csr-subtitle"></div>
-            <div class="csr-rule">In Pursuant to the companies (Corporate Social Responsibility Policy) Rules, 2014 read
-                with section 135 of the Companies Act, 2013</div>
-            <div class="csr-index">
-                <div class="csr-index-title">INDEX</div>
-                <ol style="padding-left: 1.2em;">
-                    <li>CONCEPT</li>
-                    <li>Short Title &amp; Applicability</li>
-                    <li>CSR Vision statement</li>
-                    <li>CSR Objective</li>
-                    <li>CSR Projects / Programmes</li>
-                    <li>PLANNING</li>
-                    <li>CSR Committee</li>
-                    <li>Role and Responsibilities of Board</li>
-                    <li>Project Based Approach</li>
-                    <li>FINANCIAL OUTLAY OF CSR ACTIVITIES</li>
-                    <li>Corpus Allocation of Funds</li>
-                    <li>Overall Budget distribution for CSR</li>
-                    <li>IMPLEMENTATION</li>
-                    <li>EXECUTING AGENCY</li>
-                    <li>MONITORING REPORTING</li>
-                    <li>GENERAL</li>
-                </ol>
-            </div>
-            <div class="csr-section-title">1. CONCEPT:</div>
+            <div class="csr-rule text-start">Every listed business and the companies belonging to the following class or classes will provide a vigil system for its directors and workers to submit their real concerns or grievances, as per Section 177 of the Companies Act, 2013 and the Rules adopted thereunder.</div>
+            <p>• Companies accept deposits from Public.</p>
+            <p>• Companies which borrowed money from Banks and Public financial institution in excess of Rs.50 Crore.</p>
+          
+            <div class="csr-section-title">2. PURPOSE:</div>
             <div class="csr-section-content">
-                <b>Short title &amp; Applicability</b><br>
-                In pursuance to the Companies (Corporate Social Responsibility Policy) Rules, 2014 read with Section 135
-                of the Companies Act, 2013, the Board of Directors of the Company have framed a policy that encompasses
-                the Company’s philosophy and defines its responsibility as a corporate citizen and lays down the
-                guidelines and mechanism for undertaking socially useful programmes for welfare &amp; sustainable
-                development of the community at large.
+            The purpose of this policy is to provide the adequate safeguard against victimisation of employees and directors and to promote responsibility. It protects employees highlighting serious concerns and irregularities within Manisha Textile Ltd.
+            </div>
+            <div class="csr-section-title">3. ABOUT THE POLICY:</div>
+            <div class="csr-section-content">
+            <p>
+            The Vigil mechanism will ensure that the person or people who use it are adequately protected from being victimized. It will also give employees and directors the ability to access the system in good faith and report concerns to the Chairperson of the Audit Committee, as well as observe unethical and improper practices or any other alleged wrongful conduct in CEDAAR TEXTILE LTD without fear of being treated unfairly.
+            </p>
+            <p>Under this system, the authorized Authority is the Audit Committee Chairperson. CEDAAR TEXTILE LTD will reveal the specifics of the Vigil mechanism policy in the board report.</p>
+            <p>
+            Confidentiality shall be maintained to the greatest extent possible.
+            </p>
+            
+            </div>
+            <div class="csr-section-title">4. APPLICABILITY:</div>
+            <div class="csr-section-content">
+            <p>
+            This Policy is for the all employees and directors of Manisha Textile Ltd.
+            </p>
+            <p>
+            This Policy will be effective from 01.04.2024.
+            </p>
+            
+            
             </div>
             <!-- Add more sections/content as needed below -->
         </div>
