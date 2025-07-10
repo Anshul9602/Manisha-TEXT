@@ -111,8 +111,8 @@
                         </div>
                         <div class="col-lg-6 text-right md-text-left">
                             <ul class="copy-right-menu">
-                                <li><a href="#">Event</a></li>
-                                <li><a href="<?= base_url('blog') ?>">Blog</a></li>
+                                <li><a href="<?= base_url('events') ?>">Events</a></li>
+                             
                                 <li><a href="<?= base_url('contact') ?>">Contact</a></li>
                             </ul>
                         </div>

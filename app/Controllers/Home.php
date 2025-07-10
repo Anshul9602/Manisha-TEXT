@@ -168,6 +168,12 @@ class Home extends BaseController
         echo view('corporate_governance');
         echo view('footer');   
      }
+     public function product()
+     {
+        echo view('header'); 
+        echo view('product');
+        echo view('footer');   
+     }
      
      
      

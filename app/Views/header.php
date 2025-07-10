@@ -51,6 +51,12 @@
     .breadcrumbs-img {
         opacity: 0.5;
     }
+    @media only screen and (min-width: 1440px) {
+    .container {
+        max-width: 1600px;
+        width: 100%;
+    }
+}
     </style>
 </head>
 
@@ -174,7 +180,7 @@
                                                     </ul>
                                                 </li>
                                                 <li class="rs-mega-menu mega-rs menu-item-has-children"> <a
-                                                        href="/">Products</a>
+                                                        href="<?= base_url('product') ?>">Products</a>
                                                     <ul class="mega-menu">
                                                         <li class="mega-menu-container">
                                                             <div class="mega-menu-innner">

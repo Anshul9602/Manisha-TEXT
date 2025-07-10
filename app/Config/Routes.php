@@ -36,6 +36,8 @@ $routes->get('/events', 'Home::events');
 $routes->get('/corporate', 'Home::corporate');
 $routes->get('/dyeing', 'Home::dyeing');
 $routes->get('/spinning', 'Home::spinning');
+$routes->get('/product', 'Home::product');
+
 
 
 
