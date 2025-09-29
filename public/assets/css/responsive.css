@@ -11,7 +11,12 @@
 * -----------------------------------------------------------------------------
 *
 **/ 
-
+#rs-header{
+    padding: 20px 0px;
+}
+#rs-header .sticky{
+    padding: 20px 0px;
+}
 /* Important CSS */
 .rs-degree.style1 .degree-wrap .content-part,
 .rs-team.style1 .team-item:after {
@@ -143,7 +148,7 @@
     }
 
     .full-width-header .rs-header .logo-part img {
-        max-height: 35px;
+        max-height: 80px;
     }
     .full-width-header.header-style3 .rs-header .menu-area .menu-bg::before {
         left: 65%;
@@ -379,7 +384,7 @@
     .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .header-logo .custom-logo-area {
         position: absolute;
         top: -1px;
-        background: #088ece;
+        background: #eb4234;
         padding: 27px 35px 27px 22px;
         left: 0;
     }
@@ -387,7 +392,7 @@
         right: -175px;
         margin: 0 auto;
         max-width: 800px;
-        background: #088ece !important;
+        background: #eb4234 !important;
     }
     .full-width-header .rs-header .topbar-area.home11-topbar.modify1.home15-style {
         padding-left: 13px;
@@ -1289,7 +1294,7 @@
         margin-bottom: 8px;
     }
     .full-width-header.header-style3.home-style15 .rs-header .menu-area .custom-table .rs-menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
-        color: #088ece !important;
+        color: #eb4234 !important;
     }
     .rs-banner.style13 {
         padding: 100px 0px 0px 0px;

@@ -4,7 +4,7 @@
 <head>
     <!-- meta tag -->
     <meta charset="utf-8">
-    <title>Educavo - Education HTML Template</title>
+    <title>DRPPL </title>
     <meta name="description" content="">
     <!-- responsive tag -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -57,6 +57,9 @@
         width: 100%;
     }
 }
+.full-width-header .rs-header .logo-part img {
+    max-height: 80px;
+}
     </style>
 </head>
 
@@ -74,82 +77,13 @@
                 <div class="menu-area menu-sticky">
                     <div class="container">
                         <div class="row y-middle">
-                            <div class="col-lg-12 text-right" style="padding:10px 0;">
-                                <div class="expand-btn-inner">
-                                    <ul>
-                                        <li>
-                                            <a class="hidden-xs rs-search" data-target=".search-modal"
-                                                data-toggle="modal" href="#">
-                                                <i class="flaticon-search"></i>
-                                            </a>
-                                        </li>
-                                        <li class="user-icon cart-inner no-border mini-cart-active">
-                                            <a href="#" style="height:fit-content;"><i
-                                                    class="fa fa-shopping-bag"></i></a>
-                                            <div class="woocommerce-mini-cart text-left">
-                                                <div class="cart-bottom-part">
-                                                    <ul class="cart-icon-product-list">
-                                                        <li class="display-flex">
-                                                            <div class="icon-cart">
-                                                                <a href="#"><i class="fa fa-times"></i></a>
-                                                            </div>
-                                                            <div class="product-info">
-                                                                <a href="cart.html">Law Book</a><br>
-                                                                <span class="quantity">1 × $30.00</span>
-                                                            </div>
-                                                            <div class="product-image">
-                                                                <a href="cart.html"><img src="assets/images/shop/1.jpg"
-                                                                        alt="Product Image"></a>
-                                                            </div>
-                                                        </li>
-                                                        <li class="display-flex">
-                                                            <div class="icon-cart">
-                                                                <a href="#"><i class="fa fa-times"></i></a>
-                                                            </div>
-                                                            <div class="product-info">
-                                                                <a href="cart.html">Spirit Level</a><br>
-                                                                <span class="quantity">1 × $30.00</span>
-                                                            </div>
-                                                            <div class="product-image">
-                                                                <a href="cart.html"><img src="assets/images/shop/2.jpg"
-                                                                        alt="Product Image"></a>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-
-                                                    <div class="total-price text-center">
-                                                        <span class="subtotal">Subtotal:</span>
-                                                        <span class="current-price">$85.00</span>
-                                                    </div>
-
-                                                    <div class="cart-btn text-center">
-                                                        <a class="crt-btn btn1" href="cart.html">View Cart</a>
-                                                        <a class="crt-btn btn2" href="checkout.html">Check Out</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="user-icon last-icon">
-                                            <a href="#" style="height:fit-content;"><i class="fa fa-user"
-                                                    aria-hidden="true"></i></a>
-                                        </li>
-
-                                    </ul>
-                                    <span>
-                                        <a id="nav-expander" class="nav-expander">
-                                            <span class="dot1"></span>
-                                            <span class="dot2"></span>
-                                            <span class="dot3"></span>
-                                        </a>
-                                    </span>
-                                </div>
-                            </div>
+                           
                             <div class="col-lg-2">
                                 <div class="logo-cat-wrap">
                                     <div class="logo-part">
                                         <a href="/">
-                                            <img class="normal-logo" src="assets/logo.jpg" alt="">
-                                            <img class="sticky-logo" src="assets/logo.jpg" alt="">
+                                            <img class="normal-logo" src="assets/logo.png" alt="">
+                                            <img class="sticky-logo" src="assets/logo.png" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -164,167 +98,57 @@
                                         </div>
                                         <nav class="rs-menu">
                                             <ul class="nav-menu">
+                                                <li class="menu-item">
+                                                    <a href="<?= base_url('') ?>">Home</a>
 
-                                                <li class="menu-item-has-children ">
-                                                    <a href="/">About</a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#about">About Us</a>
+
+                                                </li>
+                                                <li class="menu-item menu-item-has-children">
+                                                    <a href="#company">Investors </a>
                                                     <ul class="sub-menu">
-
-                                                        <li><a href="<?= base_url('about') ?>">About</a>
+                                                        <li class="menu-item menu-item-has-children">
+                                                            <a href="#">Corporate Governance</a>
+                                                            <ul class="sub-menu">
+                                                                <li class="menu-item"><a href="#">Corporate Profile</a></li>
+                                                                <li class="menu-item"><a href="#">Board Committees</a></li>
+                                                                <li class="menu-item"><a href="#">Board of Directors</a></li>
+                                                                <li class="menu-item "><a href="#">Corporate Policies</a>
+                                                                    
+                                                                </li>
+                                                                <li class="menu-item "><a href="<?= base_url('annual-report') ?>">Annual Reports</a>
+                                                                   
+                                                                </li>
+                                                                <li class="menu-item "><a href="<?= base_url('annual-return') ?>">Annual Returns</a>
+                                                                    
+                                                                </li>
+                                                                <li class="menu-item"><a href="#">Financial Results</a></li>
+                                                            </ul>
                                                         </li>
-                                                        <li><a href="<?= base_url('board-of-directors') ?>">Board
-                                                                of Directors</a></li>
-                                                        <li><a href="<?= base_url('investor') ?>">Investors</a>
+                                                        <li class="menu-item ">
+                                                            <a href="#">Stock Exchange</a>
                                                         </li>
-                                                        <li><a href="<?= base_url('scores') ?>">Scores</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                                <li class="rs-mega-menu mega-rs menu-item-has-children"> <a
-                                                        href="<?= base_url('product') ?>">Products</a>
-                                                    <ul class="mega-menu">
-                                                        <li class="mega-menu-container">
-                                                            <div class="mega-menu-innner">
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">Core Banking
-                                                                                Solution</a> </li>
-                                                                        <li><a href="<?= base_url('') ?>">MIS
-                                                                                Solution</a>
-                                                                        </li>
-
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-
-                                                                        <li><a href="<?= base_url('') ?>">ERP
-                                                                                Solution</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('') ?>">Digital
-                                                                                Payments</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">Agricultural
-                                                                                Trading</a> </li>
-                                                                        <li><a href="<?= base_url('') ?>">Post-Mortem
-                                                                                Mgmt.</a> </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('') ?>">End-to-End
-                                                                                Cyber Security</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-                                                    </ul> <!-- //.mega-menu -->
-                                                </li>
-
-
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Infrastructure</a>
-
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item-has-children right">
-                                                            <a href="<?= base_url('spinning') ?>">Spinning</a>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="<?= base_url('dyeing') ?>">Dyeing</a>
-                                                        </li>
-
-
-                                                    </ul>
-                                                </li>
-                                                <li class="rs-mega-menu mega-rs menu-item-has-children">
-                                                    <a href="/">Investors Relations</a>
-                                                    <ul class="mega-menu">
-                                                        <li class="mega-menu-container">
-                                                            <div class="mega-menu-innner">
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        <li><a href="<?= base_url('policies') ?>">POLICIES</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('committees') ?>">COMMITTEES</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('code-of-conduct') ?>">CODE OF
-                                                                                CONDUCT</a></li>
-                                                                        <li><a href="<?= base_url('management') ?>">MANAGEMENT</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('key-managerial-personnel') ?>">KEY MANAGERIAL
-                                                                                PERSONNEL</a></li>
-                                                                        
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                        
-                                                                        <li><a href="<?= base_url('financial-results') ?>">FINANCIAL
-                                                                                RESULTS</a></li>
-                                                                        <li><a href="<?= base_url('familiarisation-programme-for-independent-directors') ?>">FAMILIARISATION
-                                                                                PROGRAMME FOR INDEPENDENT DIRECTORS</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('postal-ballot') ?>">POSTAL
-                                                                                BALLOT</a></li>
-                                                                        <li><a href="<?= base_url('prospectus') ?>">PROSPECTUS</a>
-                                                                        </li>
-                                                                        <li><a href="<?= base_url('annual-return') ?>">ANNUAL
-                                                                                RETURN</a></li>
-                                                                        <li><a href="<?= base_url('annual-report') ?>">ANNUAL
-                                                                                REPORT</a></li>
-                                                                        
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="single-megamenu">
-                                                                    <ul class="sub-menu">
-                                                                    <li><a href="<?= base_url('shareholding-pattern') ?>">SHAREHOLDING
-                                                                                PATTERN</a></li>
-                                                                        
-                                                                    <li><a href="<?= base_url('investor-grievances') ?>">INVESTOR
-                                                                                GRIEVANCES</a></li>
-                                                                        <li><a href="<?= base_url('stock-exchange-intimations') ?>">STOCK EXCHANGE
-                                                                                INTIMATIONS</a></li>
-                                                                        <li><a href="<?= base_url('general-meeting') ?>">GENERAL
-                                                                                MEETING</a></li>
-                                                                                <li><a href="<?= base_url('corporate-governance') ?>">CORPORATE
-                                                                                GOVERNANCE</a></li>
-                                                                        
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-
+                                                        <li class="menu-item"><a href="#">Our Group Company - Safety Projects Private Limited</a></li>
+                                                        <li class="menu-item"><a href="#">Shareholding Pattern</a></li>
+                                                        <li class="menu-item"><a href="#">Investor Grievance</a></li>
+                                                        <li class="menu-item ">
+                                                            <a href="#">IPO</a>
+                                                            
                                                         </li>
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="<?= base_url('careers') ?>">Careers</a>
+                                                    <a href="#services">Services</a>
 
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="<?= base_url('events') ?>">Events</a>
+                                                    <a href="#insights">Insights</a>
 
                                                 </li>
-
-                                                <li class="menu-item-has-children">
-                                                    <a href="<?= base_url('corporate') ?>">Corporate
-                                                        Governance</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="<?= base_url('csr') ?>">Csr</a></li>
-
-                                                        <li class="menu-item">
-                                                            <a href="<?= base_url('vigil-mechanism') ?>">Vigil
-                                                                Mechanism</a>
-
-                                                        </li>
-                                                    </ul>
-                                                </li>
-
                                                 <li class="menu-item">
-                                                    <a href="<?= base_url('contact') ?>">Contact</a>
+                                                    <a href="<?= base_url('') ?>">Contact</a>
 
                                                 </li>
                                             </ul> <!-- //.nav-menu -->
