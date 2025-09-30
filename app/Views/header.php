@@ -112,7 +112,7 @@
                                                         <li class="menu-item menu-item-has-children">
                                                             <a href="#">Corporate Governance</a>
                                                             <ul class="sub-menu">
-                                                                <li class="menu-item"><a href="#">Corporate Profile</a></li>
+                                                                <li class="menu-item"><a href="<?php echo base_url('corporate') ?>">Corporate Profile</a></li>
                                                                 <li class="menu-item"><a href="#">Board Committees</a></li>
                                                                 <li class="menu-item"><a href="#">Board of Directors</a></li>
                                                                 <li class="menu-item "><a href="#">Corporate Policies</a>
@@ -125,12 +125,13 @@
                                                                     
                                                                 </li>
                                                                 <li class="menu-item"><a href="#">Financial Results</a></li>
+                                                                <li class="menu-item"><a href="#">Investor Presentation</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item ">
-                                                            <a href="#">Stock Exchange</a>
+                                                            <a href="<?php echo base_url('stock_exchange') ?>">Stock Exchange</a>
                                                         </li>
-                                                        <li class="menu-item"><a href="#">Our Group Company - Safety Projects Private Limited</a></li>
+                                                        <li class="menu-item"><a href="<?php echo base_url('company') ?>">Our Group Company</a></li>
                                                         <li class="menu-item"><a href="#">Shareholding Pattern</a></li>
                                                         <li class="menu-item"><a href="#">Investor Grievance</a></li>
                                                         <li class="menu-item ">

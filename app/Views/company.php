@@ -421,21 +421,18 @@
     <div class="container">
         <div class="sec-title3 text-center mb-45">
             <div class="info-meta mb-3">
-                <span style="background: #F5F5F5; color: #333; font-weight: 600; padding: 8px 16px; border-radius: 20px; font-size: 14px; display: inline-block; border: 1px solid #E0E0E0;">OUR
-                    REPORTS</span>
+                <span style="background: #F5F5F5; color: #333; font-weight: 600; padding: 8px 16px; border-radius: 20px; font-size: 14px; display: inline-block; border: 1px solid #E0E0E0;">OUR COMPANY</span>
             </div>
-            <h2 class="title black-color" style="font-size: 48px; font-weight: 500; color: #1A5F7A; line-height: 1.2; margin-bottom: 0;">Our Group
-                Companies</h2>
+            <h2 class="title black-color" style="font-size: 48px; font-weight: 500; color: #1A5F7A; line-height: 1.2; margin-bottom: 0;">Safety Projects Private Limited </h2>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-30 text-center">
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 mb-30 ">
                 <div class="courses-item text-center">
                     <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
                         <div class="content-part1">
 
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
-                                    Annual Report 2022-23</h3>
+                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Summary of last 3 years financial statements</h3>
                                 <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
                             </div>
 
@@ -443,40 +440,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-30 text-center">
-                <div class="courses-item text-center">
-                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-                        <div class="content-part1">
 
-                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
-                                    Annual Report 2023-24</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-30 text-center">
-                <div class="courses-item text-center">
-                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-                        <div class="content-part1">
-
-                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
-                                    Annual Report 2024-25</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
 
         </div>
     </div>
 </div>
+<!-- Our Values Section End -->
+
+
 
 <style>
     @keyframes blink {
@@ -492,6 +463,83 @@
         }
     }
 </style>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Check if jQuery and Owl Carousel are available
+        if (typeof $ !== 'undefined' && typeof $.fn.owlCarousel !== 'undefined') {
+            // Initialize the testimonial slider
+            var testimonialSlider = $('.testimonial-slider .owl-carousel');
+
+            testimonialSlider.owlCarousel({
+                loop: true,
+                items: 1,
+                margin: 0,
+                autoplay: true,
+                autoplayTimeout: 5000,
+                autoplayHoverPause: true,
+                smartSpeed: 800,
+                dots: false,
+                nav: false,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    768: {
+                        items: 1
+                    },
+                    992: {
+                        items: 1
+                    }
+                }
+            });
+
+            // Custom navigation controls
+            $('.prev-btn').click(function() {
+                testimonialSlider.trigger('prev.owl.carousel');
+            });
+
+            $('.next-btn').click(function() {
+                testimonialSlider.trigger('next.owl.carousel');
+            });
+        } else {
+            // Fallback: Simple manual navigation without Owl Carousel
+            const testimonialItems = document.querySelectorAll('.testimonial-item');
+            const prevBtn = document.querySelector('.prev-btn');
+            const nextBtn = document.querySelector('.next-btn');
+            let currentIndex = 0;
+
+            function showTestimonial(index) {
+                testimonialItems.forEach((item, i) => {
+                    item.style.display = i === index ? 'block' : 'none';
+                });
+            }
+
+            // Show first testimonial by default
+            showTestimonial(0);
+
+            // Navigation event listeners
+            if (prevBtn) {
+                prevBtn.addEventListener('click', function() {
+                    currentIndex = (currentIndex - 1 + testimonialItems.length) % testimonialItems.length;
+                    showTestimonial(currentIndex);
+                });
+            }
+
+            if (nextBtn) {
+                nextBtn.addEventListener('click', function() {
+                    currentIndex = (currentIndex + 1) % testimonialItems.length;
+                    showTestimonial(currentIndex);
+                });
+            }
+        }
+    });
+</script>
+<!-- Testimonials Section End -->
+
+<!-- FAQ Section Start -->
+
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
