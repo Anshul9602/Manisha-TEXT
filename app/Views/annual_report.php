@@ -435,8 +435,38 @@
 
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
                                 <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
+                                    Annual Report 2020-21</h3>
+                                <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Reports/Annual_Report_FY_2020-21.pdf" target="_blank" download="">View/Download</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-30 text-center">
+                <div class="courses-item text-center">
+                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <div class="content-part1">
+
+                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
+                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
+                                    Annual Report 2021-22</h3>
+                                <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Reports/Annual_Report_FY_2021-22.pdf" target="_blank" download="">View/Download</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-30 text-center">
+                <div class="courses-item text-center">
+                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                        <div class="content-part1">
+
+                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
+                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
                                     Annual Report 2022-23</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                                <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Reports/Annual_Report_FY_2022-23.pdf" target="_blank" download="">View/Download</a>
                             </div>
 
                         </div>
@@ -451,22 +481,7 @@
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
                                 <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
                                     Annual Report 2023-24</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-30 text-center">
-                <div class="courses-item text-center">
-                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-                        <div class="content-part1">
-
-                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                                <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">
-                                    Annual Report 2024-25</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                                <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Reports/Annual_Report_FY_2023-24.pdf" target="_blank" download="">View/Download</a>
                             </div>
 
                         </div>

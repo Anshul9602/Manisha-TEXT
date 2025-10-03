@@ -39,7 +39,7 @@
                         </div>
                         <div>
                             <span style="font-size: 16px; color: #333; font-weight: 500;">Our Email:</span>
-                            <a href="mailto:director@drppl.com" style="font-size: 16px; color: #1A5F7A; font-weight: 600; margin-left: 10px; text-decoration: none;">director@drppl.com</a>
+                            <a href="mailto:cs@drppl.com" style="font-size: 16px; color: #1A5F7A; font-weight: 600; margin-left: 10px; text-decoration: none;">cs@drppl.com</a>
                         </div>
                     </div>
                 </div>

@@ -426,30 +426,124 @@
             <h2 class="title black-color" style="font-size: 48px; font-weight: 500; color: #1A5F7A; line-height: 1.2; margin-bottom: 0;">Corporate Profile</h2>
         </div>
         <div class="row">
-            <div class="col-lg-12 col-md-12 mb-30 text-center">
-                <div class="courses-item text-center">
-                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 30px 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+            <div class="col-lg-12 col-md-12 mb-30">
+                <div class="courses-item">
+                    <div class="courses-grid" style="background: white; border-radius: 10px; padding: 40px 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
                         <div class="content-part1">
-                            <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                                <ol class="text-start" style="margin: 0; padding-left: 18px; line-height: 1.9; color: #1A5F7A; font-weight: 500; font-size: 18px;">
-                                    <li>Policy on Preservation of Documents <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on Archival of Documents <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Terms and Conditions of Appointment of Independent Directors <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on familiarization Programmes for Independent Directors <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Whistle Blower Policy <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Code of Conduct of Board & Senior Management <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Nomination and Remuneration Policy <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy for Determination of Materiality of events or information <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on identification of group companies, identification of material outstanding creditors and identification of material outstanding litigations <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on Diversity of Board of Directors <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on Materiality of Related Party Transactions <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy for payment of Non-Executive Directors <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Prevention of Sexual Harassment Policy <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Dividend Distribution Policy <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Code of Conduct for Prevention of Insider Trading <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                    <li>Policy on Procedure of Inquiry in case of Leak of Unpublished Price Sensitive Information <a class="read-more-text" href="" target="_blank" download="" style="margin-left: 10px; font-weight: 400; font-size: 14px;">View/Download</a></li>
-                                </ol>
+                            <div class="company-info" style="padding: 20px;">
+                                <div class="info-section mb-40">
+                                    <h3 style="color: #1A5F7A; font-size: 24px; font-weight: 600; margin-bottom: 30px; text-align: center;">Brief Information</h3>
+                                    
+                                    <div class="info-grid" style="display: grid; gap: 25px;">
+                                        <!-- Company Name -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Name of the Company</div>
+                                            <div class="info-value" style="color: #1A5F7A; font-size: 18px; font-weight: 500;">DHARA RAIL PROJECTS LIMITED</div>
+                                        </div>
+
+                                        <!-- Registered Office -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Registered Office</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai-400004, Maharashtra, India</div>
+                                        </div>
+
+                                        <!-- Corporate Office -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Corporate Office</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">208, 2nd Floor, Plot-16, The Jewel Roxy Chambers, Mama Parmanand Marg, Opera House, Girgaon, Mumbai-400004, Maharashtra, India</div>
+                                        </div>
+
+                                        <!-- Corporate Identification Number -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Corporate Identification Number</div>
+                                            <div class="info-value" style="color: #1A5F7A; font-size: 16px; font-weight: 500;">U74210MH2010PLC201669</div>
+                                        </div>
+
+                                        <!-- Corporate Registration Number -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Corporate Registration No.</div>
+                                            <div class="info-value" style="color: #1A5F7A; font-size: 16px; font-weight: 500;">201669</div>
+                                        </div>
+
+                                        <!-- Company Category -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Company Category</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px;">Company limited by shares</div>
+                                        </div>
+
+                                        <!-- Company Sub-category -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Company Sub-category</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px;">Indian Non-Government Company</div>
+                                        </div>
+
+                                        <!-- Registrar of Companies -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Registrar of Companies</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">
+                                                Registrar of Companies, Mumbai<br>
+                                                Ministry of Corporate Affairs<br>
+                                                100, Everest, Marine Drive, Mumbai - 400002, Maharashtra, India.<br>
+                                                Tel: +91 - 22-22812627<br>
+                                                Fax: +91-22-22811977<br>
+                                                Email: <a href="mailto:roc.mumbai@mca.gov.in" style="color: #1A5F7A;">roc.mumbai@mca.gov.in</a><br>
+                                                Website: <a href="https://www.mca.gov.in" target="_blank" style="color: #1A5F7A;">www.mca.gov.in</a>
+                                            </div>
+                                        </div>
+
+                                        <!-- Designated Stock Exchange -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Designated Stock Exchange</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">
+                                                National Stock Exchange of India Limited ("NSE Emerge")<br>
+                                                Exchange Plaza, C-1, Block-G, Bandra Kurla Complex, Bandra (East), Mumbai 400051, Maharashtra, India.
+                                            </div>
+                                        </div>
+
+                                        <!-- Company Secretary and Compliance Officer -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Company Secretary and Compliance Officer</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">
+                                                <strong style="color: #1A5F7A;">Suraj Bohra</strong><br>
+                                                Dhara Rail Projects Limited<br>
+                                                Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai-400004, Maharashtra, India<br>
+                                                Tel: +91-22-23865040<br>
+                                                Email: <a href="mailto:cs@drppl.com" style="color: #1A5F7A;">cs@drppl.com</a><br>
+                                                Website: <a href="https://drppl.com/" target="_blank" style="color: #1A5F7A;">https://drppl.com/</a>
+                                            </div>
+                                        </div>
+
+                                        <!-- Chief Financial Officer -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Chief Financial Officer</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">
+                                                <strong style="color: #1A5F7A;">Shivaraja Annappa Devadiga</strong><br>
+                                                Dhara Rail Projects Limited<br>
+                                                Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai-400004, Maharashtra, India<br>
+                                                Tel: +91-22-23865040<br>
+                                                Email: <a href="mailto:accounts@drppl.com" style="color: #1A5F7A;">accounts@drppl.com</a><br>
+                                                Website: <a href="https://drppl.com/" target="_blank" style="color: #1A5F7A;">https://drppl.com/</a>
+                                            </div>
+                                        </div>
+
+                                        <!-- Registrar and Transfer Agent -->
+                                        <div class="info-item">
+                                            <div class="info-label" style="font-weight: 600; color: #333; font-size: 16px; margin-bottom: 8px;">Registrar and Transfer Agent (RTA)</div>
+                                            <div class="info-value" style="color: #666; font-size: 15px; line-height: 1.6;">
+                                                <strong style="color: #1A5F7A;">Bigshare Services Private Limited</strong><br>
+                                                Address: S6-2, 6th Floor, Pinnacle Business Park, Next to Ahura Centre, Mahakali Caves Road, Andheri (East) Mumbai-400093, Maharashtra, India.<br>
+                                                Tel: +91-22 6263 8200<br>
+                                                Fax: +91-22 6263 8299<br>
+                                                Email: <a href="mailto:ipo@bigshareonline.com" style="color: #1A5F7A;">ipo@bigshareonline.com</a><br>
+                                                Investor Grievance Email: <a href="mailto:investor@bigshareonline.com" style="color: #1A5F7A;">investor@bigshareonline.com</a><br>
+                                                Website: <a href="https://www.bigshareonline.com" target="_blank" style="color: #1A5F7A;">www.bigshareonline.com</a><br>
+                                                Contact Person: Babu Rapheal C.<br>
+                                                SEBI Registration Number: MB/INR000001385<br>
+                                                CIN: U99999MH1994PTC076534
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

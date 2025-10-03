@@ -39,5 +39,27 @@ class Home extends BaseController
         echo view('company');
         echo view('footer');
     }
+    public function Draft(){
+        echo view('header');    
+        echo view('draft');
+        echo view('footer');
+    }
+
+    public function board_of_directors(){
+        echo view('header');    
+        echo view('board_of_directors');
+        echo view('footer');
+    }
+
+    public function board_committees(){
+        echo view('header');    
+        echo view('board_committees');
+        echo view('footer');
+    }
+    public function Public_Announcement(){
+        echo view('header');    
+        echo view('Public_Announcement');
+        echo view('footer');
+    }
 
 }

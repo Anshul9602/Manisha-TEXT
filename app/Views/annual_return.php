@@ -430,8 +430,8 @@
                         <div class="content-part1">
                            
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Report 2022-23</h3>
-                            <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Return 2021-22</h3>
+                            <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Returns/Form-MGT-7A-FY-2021-22.pdf" target="_blank" download="">View/Download</a>
                             </div>
                             
                         </div>
@@ -444,8 +444,8 @@
                         <div class="content-part1">
                            
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Report 2023-24</h3>
-                            <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Return 2022-23</h3>
+                            <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Returns/Form-MGT-7A-FY-2022-23.pdf" target="_blank" download="">View/Download</a>
                             </div>
                             
                         </div>
@@ -458,8 +458,8 @@
                         <div class="content-part1">
                            
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
-                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Report 2024-25</h3>
-                            <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                            <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Annual Return 2023-24</h3>
+                            <a class="read-more-text" href="<?php echo base_url('') ?>assets/pdf/Annual_Returns/Form-MGT-7A-FY-2023-24.pdf" target="_blank" download="">View/Download</a>
                             </div>
                             
                         </div>

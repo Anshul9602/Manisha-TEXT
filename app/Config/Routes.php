@@ -18,6 +18,11 @@ $routes->get('/stock_exchange', 'Home::Stock_exchange');
 $routes->get('/company', 'Home::company');
 $routes->get('/spinning', 'Home::spinning');
 $routes->get('/product', 'Home::product');
+$routes->get('/Draft_Red_Herring_Prospectus', 'Home::Draft');
+$routes->get('/board-of-directors', 'Home::board_of_directors');
+$routes->get('/board-committees', 'Home::board_committees');
+$routes->get('/Public_Announcement', 'Home::Public_Announcement');
+
 
 $routes->get('/privacy', 'Privacy::index');
 $routes->get('/terms', 'Terms::index');

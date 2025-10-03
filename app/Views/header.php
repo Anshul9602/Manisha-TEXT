@@ -113,8 +113,8 @@
                                                             <a href="#">Corporate Governance</a>
                                                             <ul class="sub-menu">
                                                                 <li class="menu-item"><a href="<?php echo base_url('corporate') ?>">Corporate Profile</a></li>
-                                                                <li class="menu-item"><a href="#">Board Committees</a></li>
-                                                                <li class="menu-item"><a href="#">Board of Directors</a></li>
+                                                                <li class="menu-item"><a href="<?php echo base_url('board-committees') ?>">Board Committees</a></li>
+                                                                <li class="menu-item"><a href="<?php echo base_url('board-of-directors') ?>">Board of Directors</a></li>
                                                                 <li class="menu-item "><a href="#">Corporate Policies</a>
                                                                     
                                                                 </li>
@@ -134,9 +134,15 @@
                                                         <li class="menu-item"><a href="<?php echo base_url('company') ?>">Our Group Company</a></li>
                                                         <li class="menu-item"><a href="#">Shareholding Pattern</a></li>
                                                         <li class="menu-item"><a href="#">Investor Grievance</a></li>
-                                                        <li class="menu-item ">
+                                                       
+                                                        <li class="menu-item menu-item-has-children">
                                                             <a href="#">IPO</a>
-                                                            
+                                                            <ul class="sub-menu">
+                                                                <li class="menu-item"><a href="<?php echo base_url('Draft_Red_Herring_Prospectus') ?>">Draft Red Herring Prospectus </a></li>
+                                                                <li class="menu-item"><a href="#">Red Herring Prospectus</a></li>
+                                                                <li class="menu-item"><a href="<?php echo base_url('Public_Announcement') ?>">Public Announcement</a></li>
+                                                                
+                                                            </ul>
                                                         </li>
                                                     </ul>
                                                 </li>
