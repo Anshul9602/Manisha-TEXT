@@ -62,4 +62,10 @@ class Home extends BaseController
         echo view('footer');
     }
 
+    public function investor_grievance(){
+        echo view('header');
+        echo view('investor_grievance');
+        echo view('footer');
+    }
+
 }

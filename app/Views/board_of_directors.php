@@ -37,7 +37,7 @@
                         <div class="director-content">
                             <div class="director-info">
                                 <h3 class="director-name">Tejas Lalit Mehta</h3>
-                                <p class="director-position">Promoter & Chairman & Managing Director</p>
+                                <p class="director-position">Managing Director</p>
                             </div>
                             <div class="director-details">
                                 <div class="education">
@@ -69,7 +69,7 @@
                 <div class="col-lg-6 col-md-6 mb-50">
                     <div class="director-card">
                         <div class="director-image">
-                            <img src="assets/images/director-placeholder.jpg" alt="Jagruti Tejas Mehta">
+                            <img src="assets/tejas-mehta.png" alt="Jagruti Tejas Mehta">
                         </div>
                         <div class="director-content">
                             <div class="director-info">
@@ -102,7 +102,7 @@
                 <div class="col-lg-6 col-md-6 mb-50">
                     <div class="director-card">
                         <div class="director-image">
-                            <img src="assets/images/director-placeholder.jpg" alt="Dhara Tejas Mehta">
+                            <img src="assets/tejas-mehta.png" alt="Dhara Tejas Mehta">
                         </div>
                         <div class="director-content">
                             <div class="director-info">
@@ -131,7 +131,7 @@
                 <div class="col-lg-6 col-md-6 mb-50">
                     <div class="director-card">
                         <div class="director-image">
-                            <img src="assets/images/director-placeholder.jpg" alt="Sachin Mahendra Sheth">
+                            <img src="assets/tejas-mehta.png" alt="Sachin Mahendra Sheth">
                         </div>
                         <div class="director-content">
                             <div class="director-info">
@@ -160,7 +160,7 @@
                 <div class="col-lg-6 col-md-6 mb-50">
                     <div class="director-card">
                         <div class="director-image">
-                            <img src="assets/images/director-placeholder.jpg" alt="Charmi Monil Shah">
+                            <img src="assets/tejas-mehta.png" alt="Charmi Monil Shah">
                         </div>
                         <div class="director-content">
                             <div class="director-info">
@@ -219,9 +219,10 @@
             </div>
         </div>
     </div>
+    
     <!-- Board Composition Info Section End -->
 </div>
-
+<hr>
 <style>
 .director-card {
     background: #fff;

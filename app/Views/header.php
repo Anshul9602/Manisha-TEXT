@@ -4,7 +4,7 @@
 <head>
     <!-- meta tag -->
     <meta charset="utf-8">
-    <title>DRPPL </title>
+    <title>DRPL </title>
     <meta name="description" content="">
     <!-- responsive tag -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -82,8 +82,8 @@
                                 <div class="logo-cat-wrap">
                                     <div class="logo-part">
                                         <a href="/">
-                                            <img class="normal-logo" src="assets/logo.png" alt="">
-                                            <img class="sticky-logo" src="assets/logo.png" alt="">
+                                            <img class="normal-logo" src="assets/logo1.png" alt="">
+                                            <img class="sticky-logo" src="assets/logo1.png" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -103,7 +103,7 @@
 
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="#about">About Us</a>
+                                                    <a href="<?= base_url('about') ?>">About Us</a>
 
                                                 </li>
                                                 <li class="menu-item menu-item-has-children">
@@ -133,7 +133,7 @@
                                                         </li>
                                                         <li class="menu-item"><a href="<?php echo base_url('company') ?>">Our Group Company</a></li>
                                                         <li class="menu-item"><a href="#">Shareholding Pattern</a></li>
-                                                        <li class="menu-item"><a href="#">Investor Grievance</a></li>
+                                                        <li class="menu-item"><a href="<?php echo base_url('investor-grievance') ?>">Investor Grievance</a></li>
                                                        
                                                         <li class="menu-item menu-item-has-children">
                                                             <a href="#">IPO</a>
@@ -147,7 +147,7 @@
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="#services">Services</a>
+                                                    <a href="#rs-popular-courses">Services</a>
 
                                                 </li>
                                                 <li class="menu-item">
@@ -155,7 +155,7 @@
 
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="<?= base_url('') ?>">Contact</a>
+                                                    <a href="<?= base_url('contact') ?>">Contact</a>
 
                                                 </li>
                                             </ul> <!-- //.nav-menu -->

@@ -23,6 +23,9 @@ $routes->get('/board-of-directors', 'Home::board_of_directors');
 $routes->get('/board-committees', 'Home::board_committees');
 $routes->get('/Public_Announcement', 'Home::Public_Announcement');
 
+// Investor Grievance page route
+$routes->get('/investor-grievance', 'Home::investor_grievance');
+
 
 $routes->get('/privacy', 'Privacy::index');
 $routes->get('/terms', 'Terms::index');

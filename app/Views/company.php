@@ -433,7 +433,7 @@
 
                             <div class="conn text-start" style="padding: 20px;border-radius: 10px;">
                                 <h3 class="title text-start" style="color: #1A5F7A; font-weight: 600; font-size: 20px; margin-bottom: 15px;">Summary of last 3 years financial statements</h3>
-                                <a class="read-more-text" href="" target="_blank" download="">View/Download</a>
+                                <a class="read-more-text" href="" target="_blank" download="<?php echo base_url('') ?>assets/pdf/Group-Company-FS.pdf">View/Download</a>
                             </div>
 
                         </div>

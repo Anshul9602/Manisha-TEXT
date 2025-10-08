@@ -10,7 +10,7 @@
                         <div class="footer-logo" style="margin-bottom: 30px;">
                             <div style="display: flex; align-items: center;">
                                 <!-- Logo Image -->
-                                <img src="assets/logo.png" alt="DRPPL Logo" style="height: 50px; width: auto; margin-right: 15px;">
+                                <img src="assets/logo1.png" alt="DRPPL Logo" style="height: 50px; width: auto; margin-right: 15px;">
                                 <!-- DRPPL Text -->
        
                             </div>
@@ -51,8 +51,9 @@
                             <span style="font-size: 16px; color: #333; font-weight: 600; margin-left: 10px;">8:30am-5:30pm</span>
                         </div>
                         <div>
-                            <span style="font-size: 16px; color: #333; font-weight: 500;">San Francisco,</span>
-                            <span style="font-size: 16px; color: #333; font-weight: 600; margin-left: 10px;">1140 Harrison St, CA 94103</span>
+                           <span style="font-size: 16px; color: #333; font-weight: 600; ">Gala No. O, 196-K, Girgaum 
+Gaiwadi, Girgaum, Mumbai
+400004, Maharashtra, India. </span>
                         </div>
                     </div>
                 </div>

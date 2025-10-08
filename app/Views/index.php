@@ -416,7 +416,7 @@
                         style="color: white; font-size: 48px; font-weight: 700; margin-bottom: 30px;">Crafting India's
                         future with precision engineering and reliable solutions since 2010.</h2>
                     <div class="sl-btn wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                        <a class="readon orange-btn main-home" href="<?= base_url('about') ?>"
+                        <a class="readon orange-btn main-home" href="<?= base_url('') ?>"
                             style="background: #eb4234; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: 600;">Explore
                             Solutions</a>
                     </div>
@@ -502,7 +502,7 @@
 <!-- Services Section End -->
 
 <!-- About Section Start -->
-<div class="rs-legacy-section pt-100 pb-100 md-pt-70 md-pb-70" style="background: #FAFAFA;">
+<div id="about" class="rs-legacy-section pt-100 pb-100 md-pt-70 md-pb-70" style="background: #FAFAFA;">
     <div class="container">
         <div class="row align-items-center justify-content-space-between" style="justify-content: space-between;">
             <div class="col-lg-6  mb-4 mb-lg-0">
@@ -523,7 +523,7 @@
             <div class="col-lg-4">
                 <div class="legacy-content">
                     <p style="font-size: 20px; line-height: 1.6; color: #333; margin-bottom: 0;">
-                        <b>Dhara Rail Projects Pvt. Ltd.</b> was established in 2010 to serve the growing demands of the Indian infrastructure and railway sector. As a registered MSME with expertise in engineering, electrical systems, and machinery manufacturing, we continue to innovate and lead with quality and commitment.
+                        <b>Dhara Rail Projects Limited</b> was established in 2010. we are an ISO 9001:2015 certified company, engaged in the business of executing various types of contractual railway projects and related services which includes Annual Maintenance Contracts (AMC) and repair services for a wide range of railway rolling stock systems.
                     </p>
                 </div>
             </div>
@@ -533,7 +533,7 @@
 <!-- About Section End -->
 
 <!-- Capabilities Section Start -->
-<div class="rs-categories main-home pt-90 pb-100 md-pt-60 md-pb-40" style="background: #1a7a56;">
+<div id="insights" class="rs-categories main-home pt-90 pb-100 md-pt-60 md-pb-40" style="background: #1a7a56;">
     <div class="container">
         <div class="row align-items-center mb-5">
             <div class="col-lg-8">

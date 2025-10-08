@@ -27,7 +27,7 @@
         						</div>
         						<div class="address-text">
                                     <span class="label">Address</span>
-                                    <span class="des">Plot No 16A, Survey No 6, H No 8P, Sapna Industrial Estate, Saravali MIDC, Gova Naka, Bhiwandi 421302</span>
+                                    <span class="des">Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai 400004, Maharashtra, India.</span>
                                 </div>
         					</div>
         				</div>
@@ -38,7 +38,7 @@
                                 </div>
                                 <div class="address-text">
                                     <span class="label">Email Address</span>
-                                    <span class="des"><a href="mailto:manishatextiles@yahoo.com">manishatextiles@yahoo.com</a></span>
+                                    <span class="des"><a href="mailto:cs@drppl.com">cs@drppl.com</a></span>
                                 </div>
                             </div>
                         </div> 
@@ -49,8 +49,7 @@
                                 </div>
                                 <div class="address-text">
                                     <span class="label">Phone Number</span>
-                                    <span class="des"><a href="tel:9860112999">+91-9860112999 </a></span> /
-                                    <span class="des"><a href="tel:9890293959">+91-9890293959</a></span>
+                                    <span class="des"><a href="tel:9004071309">+91-9004071309 </a></span> 
                                 </div>
                             </div>
                         </div>
@@ -58,8 +57,8 @@
             		<div class="row align-items-center">
             			<div class="col-lg-6 md-mb-30">
             				<!-- Map Section Start --> 
-                            <div class="contact-map3">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35150.88211986296!2d73.04034449936131!3d19.275148588342056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79619262dc8bd%3A0xca57ebec26122dc0!2sManisha%20Textiles%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1748932514702!5m2!1sen!2sin"></iframe>
+                            <div class="contact-map3 ">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4402.417743501608!2d72.81737032582186!3d18.953472382226064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce109ea823d3%3A0xe9fe8bf4ca63d870!2sGai%20Wadi%2C%20Charni%20Road%20East%2C%20Girgaon%2C%20Mumbai%2C%20Maharashtra%20400004!5e1!3m2!1sen!2sin!4v1759918341985!5m2!1sen!2sin" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
             			</div>
             			<div class="col-lg-6 pl-60 md-pl-15">
@@ -101,30 +100,6 @@
             </div>
             <!-- Contact Section End -->  
 
-            <!-- Newsletter section start -->
-            <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
-                <div class="container">
-                    <div class="newsletter-wrap">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 col-md-12 md-mb-30">
-                               <div class="content-part">
-                                   <div class="sec-title">
-                                       <div class="title-icon md-mb-15">
-                                           <img src="assets/images/newsletter.png" alt="images">
-                                       </div>
-                                       <h2 class="title mb-0 white-color">Subscribe to Newsletter</h2>
-                                   </div>
-                               </div>
-                            </div>
-                            <div class="col-lg-6 col-md-12">
-                                <form class="newsletter-form">
-                                    <input type="email" name="email" placeholder="Enter Your Email" required="">
-                                    <button type="submit">Submit</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
             <!-- Newsletter section end -->
         </div> 
